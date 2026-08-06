@@ -29,8 +29,8 @@ print(1.23456e2) # 科学计数法
     4. 字符串支持多种操作,如拼接、切片、格式化等。
 '''
 print('字符串')
-print("Hello, World!")  # 使用双引号
-print('Python')         # 使用单引号
+print("Hello, World!")   # 使用双引号
+print('Python')          # 使用单引号
 
 '''
 布尔值(bool):
